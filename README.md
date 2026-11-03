@@ -14,6 +14,8 @@
 | [Brass & Blade](https://github.com/grozeser/barbershop-landing) · [демо](https://grozeser.github.io/barbershop-landing/) | Лендинг барбершопа, концепт | Astro, Tailwind |
 | [Стоматология](https://github.com/grozeser/dental-landing) · [демо](https://grozeser.github.io/dental-landing/) | Лендинг стоматологической клиники, концепт | Next.js, Tailwind |
 | [Хлорис](https://github.com/grozeser/chloris-flower-landing) · [демо](https://grozeser.github.io/chloris-flower-landing/) | Лендинг цветочной студии, концепт | HTML, CSS, JavaScript |
+| [Ровно](https://github.com/grozeser/remont-landing) · [демо](https://grozeser.github.io/remont-landing/) | Лендинг ремонта квартир с калькулятором сметы, концепт | HTML, CSS, JavaScript |
+| [Talkie](https://github.com/grozeser/english-landing) · [демо](https://grozeser.github.io/english-landing/) | Лендинг онлайн-школы английского с тестом уровня, концепт | HTML, CSS, JavaScript |
 
 #### Чем могу помочь
 
