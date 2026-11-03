@@ -10,6 +10,7 @@
 | [Штурман](https://github.com/grozeser/shturman) | AI-агент для путешествий: поездка из одного запроса. Командный проект с хакатона | Python, FastAPI, React |
 | [Поиск клиентов](https://github.com/grozeser/client-search) | Десктоп-приложение: заведения с карт с контактами и таблицей для работы с клиентами | Python, Playwright, SQLite |
 | [Контроль СИЗ и ТО по видео](https://github.com/grozeser/siz-vision) · [код](https://github.com/grozeser/siz-vision-src) | Компьютерное зрение для производства: каски, жилеты, опасные зоны и ежедневное ТО по камерам | Python, YOLO, OpenCV |
+| [Telegram-боты для бизнеса](https://github.com/grozeser/telegram-bots-demo) | Пять ботов: запись к мастеру, квиз-заявки, предзаказ с оплатой, поддержка с оператором, тест уровня | Python, aiogram 3 |
 | [Монстры в обороне](https://github.com/grozeser/monsters-in-defense) | Tower defense наоборот для Яндекс Игр (витрина, код закрыт до выпуска) | JavaScript, Canvas |
 | [Brass & Blade](https://github.com/grozeser/barbershop-landing) · [демо](https://grozeser.github.io/barbershop-landing/) | Лендинг барбершопа, концепт | Astro, Tailwind |
 | [Стоматология](https://github.com/grozeser/dental-landing) · [демо](https://grozeser.github.io/dental-landing/) | Лендинг стоматологической клиники, концепт | Next.js, Tailwind |
