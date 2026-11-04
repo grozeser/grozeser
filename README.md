@@ -8,6 +8,7 @@
 |---|---|---|
 | [Омега: кредитный кабинет](https://github.com/grozeser/omega-hakaton) · [демо](https://grozeser.github.io/omega-hakaton/) | Кредитный кабинет для малого бизнеса и рабочее место аналитика. Командный проект с хакатона, банк вымышленный | React, TypeScript, FastAPI |
 | [Штурман](https://github.com/grozeser/shturman) | AI-агент для путешествий: поездка из одного запроса. Командный проект с хакатона | Python, FastAPI, React |
+| [Ассистенты по базе знаний](https://github.com/grozeser/ai-assistants-demo) · [демо](https://grozeser.github.io/ai-assistants-demo/) | Отвечают клиентам и сотрудникам по базе знаний, показывают источник и зовут менеджера, если ответа нет | JavaScript |
 | [Поиск клиентов](https://github.com/grozeser/client-search) | Десктоп-приложение: заведения с карт с контактами и таблицей для работы с клиентами | Python, Playwright, SQLite |
 | [Парсеры сайтов](https://github.com/grozeser/parsers-demo) | Каталог магазина, сайт на JavaScript, скрытое API и пагинация с выгрузкой в Excel и сводкой | Python, Playwright, openpyxl |
 | [Контроль СИЗ и ТО по видео](https://github.com/grozeser/siz-vision) · [код](https://github.com/grozeser/siz-vision-src) | Компьютерное зрение для производства: каски, жилеты, опасные зоны и ежедневное ТО по камерам | Python, YOLO, OpenCV |
